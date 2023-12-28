@@ -1,1 +1,3 @@
-A elaboração dos plugins foi bem sucedida pórem tive muitos problemas envolvendo minha conta com dynamics e a conexão com XrmToolBox, como o prazo do desafio está acabando irei publicar o que consegui concluir até o momento e pretendo atualizar este repositorio no futuro com a solução do Dynamics pronta.
+A elaboração dos plugins foi bem sucedida pórem tive muitos problemas envolvendo minha conta com dynamics e a conexão com XrmToolBox, 
+como o prazo do desafio está acabando irei publicar o que consegui concluir até o momento e pretendo atualizar este repositorio 
+no futuro com a solução do Dynamics pronta.
